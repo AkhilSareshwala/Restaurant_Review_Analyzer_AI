@@ -22,4 +22,4 @@ A tool designed to analyze and extract insights from customer reviews using AI.
 
 ## Limitations
 - Only processes English text
-- Requires structured CSV input
+
