@@ -191,5 +191,3 @@ def analyze():
     else:
         return jsonify({"error": "Invalid file type. Please upload a CSV file"}), 400
 
-if __name__ == '__main__':
-    app.run(debug=True)
